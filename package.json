@@ -15,7 +15,7 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://NCameloG.github.io/goit-js-hw-08//issues"
+    "url": "https://NCameloG.github.io/goit-js-hw-08/issues"
   },
   "dependencies": {
     "@swc/helpers": "^0.5.6",
